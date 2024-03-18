@@ -23,8 +23,7 @@ https://github.com/camenduru/Open-Sora-jupyter/assets/54370274/02c19b8f-7dd4-446
 
 https://github.com/camenduru/Open-Sora-jupyter/assets/54370274/3ca302c9-f859-4769-a670-e68f3473b2d4
 
-
-https://github.com/camenduru/Open-Sora-jupyter/assets/54370274/30658109-5c6a-44a8-92da-32f4c8c677e
+https://github.com/camenduru/Open-Sora-jupyter/assets/54370274/30658109-5c6a-44a8-92da-32f4c8c677e3
 
 ### 🏢 Sponsor
 https://modelslab.com
