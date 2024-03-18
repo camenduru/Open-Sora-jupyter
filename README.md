@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Open-Sora-jupyter/blob/main/Open_Sora_jupyter.ipynb) | Open_Sora_jupyter (😭 Pro Colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Open-Sora-jupyter/blob/main/Open_Sora_jupyter.ipynb) | Open_Sora_jupyter (😭 Pro Colab ~37GB VRAM)
 
 ### 🧬 Code
 https://github.com/hpcaitech/Open-Sora
